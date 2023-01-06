@@ -9,3 +9,7 @@ One thing that sets Git apart is its Branching Model
 GitHub is Designed as Git Repository Hosting Servce
 Github is Exclusively Cloud based
 you can share your code with others and they can make revisions and Edits
+
+
+
+Creating New Branch named MyNewBrach
