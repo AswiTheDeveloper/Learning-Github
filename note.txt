@@ -1,0 +1,4 @@
+Git is used for Source Code Management
+Git is Distributed (means every machine have local Repository)
+Version Control System
+
