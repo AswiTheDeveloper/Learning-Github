@@ -12,4 +12,4 @@ you can share your code with others and they can make revisions and Edits
 
 
 
-Creating New Branch named MyNewBrach
+Creating New Branch named MyNewBranch
